@@ -143,6 +143,8 @@ cp .config.json.example .config.json
 # Run app
 go run main.go
 
+---
+
 ## 📌 Note
 
 This backend is part of a larger **ISO 8583-based mini ATM simulation project**, designed for secure and scalable transaction handling using Golang.  
