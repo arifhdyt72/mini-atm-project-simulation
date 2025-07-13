@@ -143,7 +143,7 @@ cp .config.json.example .config.json
 # Run app
 go run main.go
 
----
+```
 
 ## 📌 Note
 
