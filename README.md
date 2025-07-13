@@ -150,17 +150,6 @@ go run main.go
 This backend is part of a larger **ISO 8583-based mini ATM simulation project**, designed for secure and scalable transaction handling using Golang.  
 It powers encrypted PIN processing, terminal control, and real-time financial operations as part of a modular backend architecture.
 
-┌────────────────────────────────────────────┐
-│ 💳 MINI ATM BACKEND                        │
-│                                            │
-│ Built with Golang & ISO 8583               │
-│ • PIN Encryption (TPK/ZPK/3DES ECB)        │
-│ • EDC Terminal, Agent, & Transaction Logic │
-│ • Real-time Reporting & Redis Caching      │
-│                                            │
-│      [ Golang Logo ]     [ Terminal Icon ] │
-└────────────────────────────────────────────┘
-
 
 > **Disclaimer:** This project is a private/internal system developed as part of my professional work. The repository does not include proprietary code, but only outlines the structure, components, and features for documentation and portfolio purposes.
 
